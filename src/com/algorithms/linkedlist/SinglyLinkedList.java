@@ -1,7 +1,6 @@
-package com.algorithms.liknkedlist;
+package com.algorithms.linkedlist;
 
 import java.util.LinkedList;
-import java.util.List;
 
 public class SinglyLinkedList {
 
